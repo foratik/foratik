@@ -8,9 +8,11 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=foratik&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" height="200">
 </div>
 
+<!--
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=foratik&bg_color=074064&radius=16&color=ffffff&line=bf9ad0&point=634389&area=true&hide_border=false" height="250" alt="graph"  />
 </div>
+-->
 
 <div style="text-align: center;" align="center">
     <img src="https://github-contributor-stats.vercel.app/api?username=foratik&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="GitHub Contributor Stats">
